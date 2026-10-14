@@ -76,4 +76,4 @@ identical numbers.
 ## Licence and citation
 
 Code: MIT (`LICENSE`). The data are available from the authors on reasonable request. Please cite the paper and this
-repository (`CITATION.cff`).
+code (`CITATION.cff`): https://doi.org/10.5281/zenodo.23375587

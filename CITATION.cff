@@ -3,6 +3,7 @@ message: "If you use this code or data, please cite the paper and this repositor
 title: "Analysis code for: People with aphantasia report fewer PTSD intrusions but similar distress after trauma"
 type: software
 version: "1.0.0"
+doi: "10.5281/zenodo.23375587"
 authors:
   - family-names: Chan
     given-names: Chen Jielu Sunny

@@ -1,0 +1,38 @@
+{
+  "title": "Analysis code for: People with aphantasia report fewer PTSD intrusions but similar distress after trauma",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Analysis code that reproduces every number, table and figure of the paper \"People with aphantasia report fewer PTSD intrusions but similar distress after trauma\" (Chan, Kvamme and Silvanto). 340 adults with congenital aphantasia, 261 members of the Aphantasia Network with imagery and 471 Prolific controls completed the Psi-Q, CTQ, LEC-5, PCL-5, PHQ-9, GAD-7, DES, IAMI and MAIA-2. The code covers the item-level factor analysis, measurement invariance, symptom comparisons at equal trauma exposure, slope and equivalence tests, mediation, PCL-5 screening and the DSM-5 symptom rule. Running run_all.py with the anonymised data file rebuilds all results and checks them against the published results. The participant-level data are available from the authors on reasonable request. Code: MIT licence.</p>",
+  "creators": [
+    {
+      "name": "Chan, Chen Jielu Sunny",
+      "affiliation": "University of Macau"
+    },
+    {
+      "name": "Kvamme, Timo L.",
+      "affiliation": "University of Macau; Aarhus University; University of Oxford; Biobizkaia Health Research Institute"
+    },
+    {
+      "name": "Silvanto, Juha",
+      "affiliation": "University of Macau"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/timokvamme/aphantasia-trauma-ptsd",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "keywords": [
+    "aphantasia",
+    "mental imagery",
+    "PTSD",
+    "PCL-5",
+    "trauma",
+    "dissociation",
+    "measurement invariance"
+  ]
+}

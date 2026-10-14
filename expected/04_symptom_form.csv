@@ -1,0 +1,103 @@
+part,measure,var,group,vs,est,lo,hi,p,n
+B_form,PTSD total,PCL5,congenital,control,-0.257573,-0.389334,-0.125812,0.000135,732
+B_form,PTSD total,PCL5,core,control,-0.250051,-0.393857,-0.106246,0.000678,675
+B_form,PTSD total,PCL5,congenital,an_imagers,-0.287006,-0.436761,-0.137252,0.000186,494
+B_form,PTSD total without item 8,PCL_no8,congenital,control,-0.292645,-0.423829,-0.161461,0.000014,732
+B_form,PTSD total without item 8,PCL_no8,core,control,-0.284246,-0.427621,-0.140871,0.000109,675
+B_form,PTSD total without item 8,PCL_no8,congenital,an_imagers,-0.315338,-0.463465,-0.167212,0.000034,494
+B_form,Intrusion (B),PCL_intrusion,congenital,control,-0.551267,-0.682714,-0.419820,0.000000,732
+B_form,Intrusion (B),PCL_intrusion,core,control,-0.553369,-0.697279,-0.409458,0.000000,675
+B_form,Intrusion (B),PCL_intrusion,congenital,an_imagers,-0.479098,-0.624234,-0.333962,0.000000,494
+B_form,Avoidance (C),PCL_avoidance,congenital,control,-0.536979,-0.674096,-0.399862,0.000000,732
+B_form,Avoidance (C),PCL_avoidance,core,control,-0.530906,-0.680466,-0.381347,0.000000,675
+B_form,Avoidance (C),PCL_avoidance,congenital,an_imagers,-0.324384,-0.479710,-0.169058,0.000048,494
+B_form,Negative cognition and mood (D),PCL_negmood,congenital,control,-0.019192,-0.157660,0.119277,0.785621,732
+B_form,Negative cognition and mood (D),PCL_negmood,core,control,-0.009589,-0.159967,0.140788,0.900396,675
+B_form,Negative cognition and mood (D),PCL_negmood,congenital,an_imagers,-0.112652,-0.275769,0.050465,0.175423,494
+B_form,Arousal (E),PCL_arousal,congenital,control,-0.025153,-0.159753,0.109446,0.713814,732
+B_form,Arousal (E),PCL_arousal,core,control,-0.013516,-0.159419,0.132387,0.855721,675
+B_form,Arousal (E),PCL_arousal,congenital,an_imagers,-0.149087,-0.304680,0.006507,0.060340,494
+B_form,PCL item 1,PCL_Q1,congenital,control,-0.434963,-0.576356,-0.293570,0.000000,732
+B_form,PCL item 1,PCL_Q1,core,control,-0.451445,-0.604825,-0.298065,0.000000,675
+B_form,PCL item 1,PCL_Q1,congenital,an_imagers,-0.413188,-0.576232,-0.250144,0.000001,494
+B_form,PCL item 2,PCL_Q2,congenital,control,-0.525800,-0.653332,-0.398268,0.000000,732
+B_form,PCL item 2,PCL_Q2,core,control,-0.497609,-0.639599,-0.355618,0.000000,675
+B_form,PCL item 2,PCL_Q2,congenital,an_imagers,-0.273657,-0.420458,-0.126857,0.000277,494
+B_form,PCL item 3,PCL_Q3,congenital,control,-0.562820,-0.693110,-0.432530,0.000000,732
+B_form,PCL item 3,PCL_Q3,core,control,-0.591215,-0.733686,-0.448745,0.000000,675
+B_form,PCL item 3,PCL_Q3,congenital,an_imagers,-0.496956,-0.639828,-0.354084,0.000000,494
+B_form,PCL item 4,PCL_Q4,congenital,control,-0.474704,-0.617419,-0.331990,0.000000,732
+B_form,PCL item 4,PCL_Q4,core,control,-0.480218,-0.634290,-0.326147,0.000000,675
+B_form,PCL item 4,PCL_Q4,congenital,an_imagers,-0.416417,-0.574242,-0.258592,0.000000,494
+B_form,PCL item 5,PCL_Q5,congenital,control,-0.400144,-0.538450,-0.261837,0.000000,732
+B_form,PCL item 5,PCL_Q5,core,control,-0.387579,-0.537937,-0.237221,0.000001,675
+B_form,PCL item 5,PCL_Q5,congenital,an_imagers,-0.394560,-0.545213,-0.243906,0.000000,494
+B_form,PCL item 6,PCL_Q6,congenital,control,-0.544734,-0.682654,-0.406815,0.000000,732
+B_form,PCL item 6,PCL_Q6,core,control,-0.545817,-0.696429,-0.395204,0.000000,675
+B_form,PCL item 6,PCL_Q6,congenital,an_imagers,-0.311639,-0.468748,-0.154530,0.000111,494
+B_form,PCL item 7,PCL_Q7,congenital,control,-0.480093,-0.619164,-0.341023,0.000000,732
+B_form,PCL item 7,PCL_Q7,core,control,-0.467626,-0.618940,-0.316311,0.000000,675
+B_form,PCL item 7,PCL_Q7,congenital,an_imagers,-0.296111,-0.452735,-0.139487,0.000227,494
+B_form,PCL item 8,PCL_Q8,congenital,control,0.415082,0.251377,0.578788,0.000001,732
+B_form,PCL item 8,PCL_Q8,core,control,0.405237,0.231101,0.579373,0.000006,675
+B_form,PCL item 8,PCL_Q8,congenital,an_imagers,0.306498,0.110852,0.502143,0.002200,494
+B_form,PCL item 9,PCL_Q9,congenital,control,-0.057684,-0.197555,0.082187,0.418404,732
+B_form,PCL item 9,PCL_Q9,core,control,-0.078820,-0.230953,0.073312,0.309377,675
+B_form,PCL item 9,PCL_Q9,congenital,an_imagers,-0.133341,-0.291313,0.024630,0.097861,494
+B_form,PCL item 10,PCL_Q10,congenital,control,-0.126786,-0.269583,0.016012,0.081739,732
+B_form,PCL item 10,PCL_Q10,core,control,-0.095352,-0.250777,0.060074,0.228787,675
+B_form,PCL item 10,PCL_Q10,congenital,an_imagers,-0.153247,-0.321546,0.015052,0.074217,494
+B_form,PCL item 11,PCL_Q11,congenital,control,-0.084253,-0.226220,0.057714,0.244353,732
+B_form,PCL item 11,PCL_Q11,core,control,-0.101625,-0.254747,0.051498,0.192971,675
+B_form,PCL item 11,PCL_Q11,congenital,an_imagers,-0.201324,-0.365051,-0.037597,0.016057,494
+B_form,PCL item 12,PCL_Q12,congenital,control,-0.159061,-0.298882,-0.019240,0.025828,732
+B_form,PCL item 12,PCL_Q12,core,control,-0.123828,-0.275131,0.027475,0.108534,675
+B_form,PCL item 12,PCL_Q12,congenital,an_imagers,-0.116118,-0.281517,0.049281,0.168400,494
+B_form,PCL item 13,PCL_Q13,congenital,control,-0.024837,-0.164847,0.115172,0.727737,732
+B_form,PCL item 13,PCL_Q13,core,control,-0.007362,-0.158564,0.143840,0.923865,675
+B_form,PCL item 13,PCL_Q13,congenital,an_imagers,-0.238534,-0.400009,-0.077059,0.003870,494
+B_form,PCL item 14,PCL_Q14,congenital,control,-0.001445,-0.146427,0.143537,0.984393,732
+B_form,PCL item 14,PCL_Q14,core,control,0.011438,-0.144245,0.167121,0.885339,675
+B_form,PCL item 14,PCL_Q14,congenital,an_imagers,0.001799,-0.166263,0.169862,0.983228,494
+B_form,PCL item 15,PCL_Q15,congenital,control,-0.157029,-0.299355,-0.014703,0.030632,732
+B_form,PCL item 15,PCL_Q15,core,control,-0.156265,-0.311751,-0.000778,0.048867,675
+B_form,PCL item 15,PCL_Q15,congenital,an_imagers,-0.164183,-0.335754,0.007388,0.060673,494
+B_form,PCL item 16,PCL_Q16,congenital,control,-0.200320,-0.332202,-0.068439,0.002959,732
+B_form,PCL item 16,PCL_Q16,core,control,-0.225901,-0.368276,-0.083526,0.001915,675
+B_form,PCL item 16,PCL_Q16,congenital,an_imagers,-0.150405,-0.310936,0.010127,0.066245,494
+B_form,PCL item 17,PCL_Q17,congenital,control,-0.077146,-0.218538,0.064245,0.284442,732
+B_form,PCL item 17,PCL_Q17,core,control,-0.119232,-0.272100,0.033635,0.126122,675
+B_form,PCL item 17,PCL_Q17,congenital,an_imagers,-0.075979,-0.232775,0.080816,0.341511,494
+B_form,PCL item 18,PCL_Q18,congenital,control,-0.021223,-0.167836,0.125390,0.776343,732
+B_form,PCL item 18,PCL_Q18,core,control,-0.012357,-0.171166,0.146451,0.878612,675
+B_form,PCL item 18,PCL_Q18,congenital,an_imagers,-0.176883,-0.334973,-0.018793,0.028389,494
+B_form,PCL item 19,PCL_Q19,congenital,control,0.232574,0.088493,0.376654,0.001594,732
+B_form,PCL item 19,PCL_Q19,core,control,0.276213,0.120690,0.431735,0.000520,675
+B_form,PCL item 19,PCL_Q19,congenital,an_imagers,-0.093329,-0.264696,0.078039,0.285117,494
+B_form,PCL item 20,PCL_Q20,congenital,control,0.046979,-0.099472,0.193430,0.529039,732
+B_form,PCL item 20,PCL_Q20,core,control,0.102754,-0.054923,0.260430,0.201140,675
+B_form,PCL item 20,PCL_Q20,congenital,an_imagers,-0.007711,-0.176524,0.161102,0.928524,494
+B_form,Depersonalisation/derealisation,DES_dep,congenital,control,-0.238753,-0.363343,-0.114162,0.000182,735
+B_form,Depersonalisation/derealisation,DES_dep,core,control,-0.272715,-0.408012,-0.137419,0.000084,677
+B_form,Depersonalisation/derealisation,DES_dep,congenital,an_imagers,-0.239556,-0.375963,-0.103149,0.000608,499
+B_form,Amnesia,DES_amn,congenital,control,-0.205282,-0.337610,-0.072954,0.002406,735
+B_form,Amnesia,DES_amn,core,control,-0.226818,-0.370939,-0.082697,0.002083,677
+B_form,Amnesia,DES_amn,congenital,an_imagers,-0.111583,-0.280982,0.057815,0.196199,499
+B_form,"Absorption, unbiased items",DES_abs_unbiased,congenital,control,-0.148694,-0.283078,-0.014310,0.030156,735
+B_form,"Absorption, unbiased items",DES_abs_unbiased,core,control,-0.169243,-0.315000,-0.023485,0.022928,677
+B_form,"Absorption, unbiased items",DES_abs_unbiased,congenital,an_imagers,-0.249157,-0.402406,-0.095908,0.001491,499
+B_form,DES 9: no memory of important events,DES_Q9,congenital,control,0.972892,0.795159,1.150625,0.000000,735
+B_form,DES 9: no memory of important events,DES_Q9,core,control,0.865617,0.679489,1.051744,0.000000,677
+B_form,DES 9: no memory of important events,DES_Q9,congenital,an_imagers,0.399852,0.210406,0.589298,0.000040,499
+B_form,Depression,PHQ9,congenital,control,0.067261,-0.064764,0.199285,0.317564,744
+B_form,Depression,PHQ9,core,control,0.101560,-0.041985,0.245104,0.165234,684
+B_form,Depression,PHQ9,congenital,an_imagers,-0.103751,-0.261146,0.053644,0.195895,515
+B_form,Anxiety,GAD7,congenital,control,-0.074630,-0.212275,0.063014,0.287472,729
+B_form,Anxiety,GAD7,core,control,-0.074223,-0.224131,0.075686,0.331312,672
+B_form,Anxiety,GAD7,congenital,an_imagers,-0.172676,-0.331191,-0.014160,0.032821,491
+B_form,Involuntary past memories (IAMI),IAMI_past,congenital,control,-0.971968,-1.135922,-0.808014,0.000000,721
+B_form,Involuntary past memories (IAMI),IAMI_past,core,control,-1.025437,-1.200261,-0.850613,0.000000,665
+B_form,Involuntary past memories (IAMI),IAMI_past,congenital,an_imagers,-1.061487,-1.236129,-0.886845,0.000000,483
+B_form,Involuntary future thoughts (IAMI),IAMI_future,congenital,control,-0.939790,-1.092395,-0.787185,0.000000,721
+B_form,Involuntary future thoughts (IAMI),IAMI_future,core,control,-1.029000,-1.191261,-0.866738,0.000000,665
+B_form,Involuntary future thoughts (IAMI),IAMI_future,congenital,an_imagers,-0.897203,-1.056637,-0.737769,0.000000,483

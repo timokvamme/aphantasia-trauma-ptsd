@@ -1,0 +1,11 @@
+# Python 3.12; the versions used for the reported results
+pandas==3.0.0
+numpy==2.4.6
+scipy==1.17.0
+statsmodels==0.14.6
+factor_analyzer==0.5.1
+scikit-learn==1.6.1
+matplotlib==3.10.0
+tabulate==0.9.0
+# only for tools/anonymise.py (reads the raw survey exports, which are not shared)
+openpyxl==3.1.5

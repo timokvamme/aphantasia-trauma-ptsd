@@ -1,0 +1,14 @@
+# results of your own run (the published results are in expected/)
+output/
+__pycache__/
+*.log
+# raw survey exports must never enter the repository
+*.xlsx
+*.xls
+*.sav
+# working files of the release process
+GATES.md
+tools/_*.py
+# the participant-level data file is available on request only and is never committed
+data/*.csv
+!data/codebook.csv

@@ -1,0 +1,27 @@
+spec,group,n,path,est,lo,hi
+with numbing,control,464.000000,indirect via intrusions,-0.022009,-0.042170,-0.007145
+with numbing,control,464.000000,"indirect via memory gaps, numbing, concentration",0.259060,0.182024,0.339416
+with numbing,control,464.000000,direct,0.179578,0.101971,0.256437
+with numbing,congenital,285.000000,indirect via intrusions,0.008794,-0.029665,0.051689
+with numbing,congenital,285.000000,"indirect via memory gaps, numbing, concentration",0.306890,0.218447,0.407984
+with numbing,congenital,285.000000,direct,0.075536,-0.033558,0.188098
+with numbing,an_imagers,228.000000,indirect via intrusions,0.012039,-0.029238,0.055516
+with numbing,an_imagers,228.000000,"indirect via memory gaps, numbing, concentration",0.285829,0.198431,0.389312
+with numbing,an_imagers,228.000000,direct,0.112641,0.006801,0.224233
+with numbing,congenital minus control,,indirect via intrusions,0.030803,-0.009901,0.078120
+with numbing,congenital minus control,,"indirect via memory gaps, numbing, concentration",0.047831,-0.071015,0.174303
+with numbing,congenital minus an_imagers,,indirect via intrusions,-0.003245,-0.060178,0.057479
+with numbing,congenital minus an_imagers,,"indirect via memory gaps, numbing, concentration",0.021061,-0.115118,0.157995
+without numbing,control,464.000000,indirect via intrusions,0.019094,0.000851,0.043573
+without numbing,control,464.000000,"indirect via memory gaps, concentration",0.144531,0.096957,0.199821
+without numbing,control,464.000000,direct,0.253003,0.170453,0.333744
+without numbing,congenital,285.000000,indirect via intrusions,0.053055,0.012405,0.105730
+without numbing,congenital,285.000000,"indirect via memory gaps, concentration",0.163450,0.098627,0.239481
+without numbing,congenital,285.000000,direct,0.174715,0.051772,0.307145
+without numbing,an_imagers,228.000000,indirect via intrusions,0.098158,0.050640,0.152182
+without numbing,an_imagers,228.000000,"indirect via memory gaps, concentration",0.104869,0.057733,0.163001
+without numbing,an_imagers,228.000000,direct,0.207483,0.095249,0.319012
+without numbing,congenital minus control,,indirect via intrusions,0.033961,-0.012877,0.088872
+without numbing,congenital minus control,,"indirect via memory gaps, concentration",0.018919,-0.067532,0.107294
+without numbing,congenital minus an_imagers,,indirect via intrusions,-0.045102,-0.115423,0.028361
+without numbing,congenital minus an_imagers,,"indirect via memory gaps, concentration",0.058581,-0.029713,0.149595

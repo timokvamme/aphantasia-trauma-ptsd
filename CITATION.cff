@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this repository."
+title: "Analysis code for: People with aphantasia report fewer PTSD intrusions but similar distress after trauma"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: Chan
+    given-names: Chen Jielu Sunny
+    affiliation: "Centre for Cognitive and Brain Sciences, University of Macau"
+  - family-names: Kvamme
+    given-names: Timo L.
+    affiliation: "Centre for Cognitive and Brain Sciences, University of Macau; Center of Functionally Integrative Neuroscience, Aarhus University; Department of Experimental Psychology, University of Oxford; Biobizkaia Health Research Institute"
+  - family-names: Silvanto
+    given-names: Juha
+    affiliation: "Centre for Cognitive and Brain Sciences and Department of Psychology, University of Macau"
+repository-code: "https://github.com/timokvamme/aphantasia-trauma-ptsd"
+license: MIT
+keywords:
+  - aphantasia
+  - mental imagery
+  - PTSD
+  - PCL-5
+  - trauma
+  - dissociation
+  - measurement invariance

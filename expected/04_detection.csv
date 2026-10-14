@@ -1,0 +1,13 @@
+cutoff_on,vs,rate_aph,rate_ref,adjusted_for,OR,lo,hi,p,n
+PCL-5 total,control,0.175573,0.285088,age_z + female,0.559981,0.382447,0.819928,0.002878,718
+PCL-5 total,control,0.175573,0.285088,CTQ_total_z + LEC_direct_z + age_z + female,0.520888,0.347481,0.780832,0.001590,718
+PCL-5 total,control,0.175573,0.285088,CTQ_total_z + LEC_direct_z + PHQ9_z + GAD7_z + age_z + female,0.474346,0.295832,0.760580,0.001961,718
+PCL-5 total,an_imagers,0.175573,0.327189,age_z + female,0.471841,0.305082,0.729750,0.000735,479
+PCL-5 total,an_imagers,0.175573,0.327189,CTQ_total_z + LEC_direct_z + age_z + female,0.525776,0.327045,0.845269,0.007956,479
+PCL-5 total,an_imagers,0.175573,0.327189,CTQ_total_z + LEC_direct_z + PHQ9_z + GAD7_z + age_z + female,0.590372,0.338089,1.030911,0.063893,479
+PCL-5 without items 3 and 8,control,0.179389,0.293860,age_z + female,0.555196,0.380332,0.810456,0.002297,718
+PCL-5 without items 3 and 8,control,0.179389,0.293860,CTQ_total_z + LEC_direct_z + age_z + female,0.511754,0.341949,0.765880,0.001128,718
+PCL-5 without items 3 and 8,control,0.179389,0.293860,CTQ_total_z + LEC_direct_z + PHQ9_z + GAD7_z + age_z + female,0.457803,0.284927,0.735570,0.001241,718
+PCL-5 without items 3 and 8,an_imagers,0.179389,0.331797,age_z + female,0.472157,0.306098,0.728303,0.000690,479
+PCL-5 without items 3 and 8,an_imagers,0.179389,0.331797,CTQ_total_z + LEC_direct_z + age_z + female,0.531108,0.331497,0.850914,0.008506,479
+PCL-5 without items 3 and 8,an_imagers,0.179389,0.331797,CTQ_total_z + LEC_direct_z + PHQ9_z + GAD7_z + age_z + female,0.609530,0.347541,1.069017,0.084144,479

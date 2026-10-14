@@ -1,0 +1,8 @@
+"contrast","instrument","n_items","n_freed","freed","still_fails"
+"an_with_imagery","DES",28,3,"DES_Q14 DES_Q9 DES_Q18",FALSE
+"an_with_imagery","MAIA",37,0,"",FALSE
+"an_with_imagery","IAMI",20,0,"",FALSE
+"an_with_imagery","CTQ",25,0,"",FALSE
+"an_with_imagery","PHQ",9,0,"",FALSE
+"an_with_imagery","GAD",7,0,"",FALSE
+"an_with_imagery","PCL",20,0,"",FALSE
